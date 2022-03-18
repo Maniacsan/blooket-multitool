@@ -17,4 +17,4 @@ If you have any questions, DON'T EMAIL ME. You can join my Discord server if you
 If you want to read about the evolution of this cheat, read this blog post.
 
 
-Cheers, Basil](https://raw.githubusercontent.com/Maniacxxx/blooket-multitool/main/blooket.png)
+Cheers, Basil](https://github.com/Maniacxxx/blooket-multitool/blob/main/blooket.png?raw=true)
